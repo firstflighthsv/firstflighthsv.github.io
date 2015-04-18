@@ -215,25 +215,25 @@ a:focus {
 	SITE WRAPS
 ################################################################# */
 
-#headerwrap {
+.headerwrap {
 	background-color: {{ site.colors.primary }};
 	min-height: 0px;
 	padding-top: 100px;
-	padding-bottom: 50px;
+	padding-bottom: 25px;
 	text-align: center;
 }
 
-#headerwrap h3, h5 {
+.headerwrap h3, h5 {
 	color: white;
 	font-weight: 400;
 }
 
-#headerwrap h1 {
+.headerwrap h1 {
 	color: white;
 	margin-bottom: 25px;
 }
 
-#headerwrap .img-responsive {
+.headerwrap .img-responsive {
 	margin: 0 auto;
 }
 
@@ -252,7 +252,7 @@ a:focus {
 /* Portfolio Wrap */
 #portfoliowrap {
 	padding-top: 60px;
-	margin-bottom: 60px;
+	margin-bottom: 25px;
 	display: block;
 	text-align: center
 }

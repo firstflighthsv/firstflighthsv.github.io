@@ -1,9 +1,8 @@
 ### GENERAL SETTINGS ###
 
 # Site settings
-title: Welcome to First Flight!
+title: Welcome to Go Fly!
 description: "Welcome to the Go Fly"
-analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
 url: "http://firstflightgo.com"
 
@@ -24,14 +23,5 @@ colors:  #in hex code if not noted else
   
 ### CONTACT SETTINGS ###
 
-    
-# Postal address (add as many lines as necessary). Shown in footer and on Contact page.
-address:
-  - lines: 
-    - Some Ave, 987,
-    - 23890, New York,
-    - United States.
 email: firstflightgo@gmail.com
-
-# Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "First Flight is a quadcopter piloting curriculum launched by Jonathan Rosswog, Matthew O'Gorman, Analyn Bengs, and Eric Lang during the 2015 Rocket City Launch weekend event."
+about: "Go Fly is a flight school launched by Jonathan Rosswog, Matthew O'Gorman, Analyn Bengs, and Eric Lang during the 2015 Rocket City Launch event."
