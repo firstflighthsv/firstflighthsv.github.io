@@ -24,10 +24,6 @@ colors:  #in hex code if not noted else
   
 ### CONTACT SETTINGS ###
 
-# Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
-social:
-  - title: meetup
-    url: http://meetup.com
     
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
@@ -35,7 +31,7 @@ address:
     - Some Ave, 987,
     - 23890, New York,
     - United States.
-email: firstflightuav@gmail.com
+email: firstflightgo@gmail.com
 
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "First Flight is a quadcopter piloting curriculum that teaches the basics of piloting, maintaining, and designing model quadcopters."
+about: "First Flight is a quadcopter piloting curriculum launched by Jonathan Rosswog, Matthew O'Gorman, Analyn Bengs, and Eric Lang during the 2015 Rocket City Launch weekend event."
