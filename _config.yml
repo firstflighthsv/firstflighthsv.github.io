@@ -5,7 +5,7 @@ title: Welcome to First Flight!
 description: "Welcome to the Go Fly"
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
-url: "http://yourdomain.com"
+url: "http://firstflightgo.com"
 
 # Build settings
 markdown: kramdown
